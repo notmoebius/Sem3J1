@@ -1,4 +1,4 @@
-# Projet THP
+# Projet THP: Un calendrier très très PÔÔ
 
 ### Project made by love from Brice Jones (@brice))
 
