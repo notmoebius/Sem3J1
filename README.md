@@ -1,9 +1,9 @@
-## Projet THP\n
+# Projet THP
 
-# Project made by love from Brice Jones (@brice))\n
+### Project made by love from Brice Jones (@brice))
 
-## Setup
-# Pré-requis
+# Setup
+## Pré-requis
 
 Pour faire fonctionner ce programme, veuillez cloner ce repo sur votre machine avec la commande suivante :
 ```
@@ -23,4 +23,4 @@ Ce projet ...
 
 ## Conditions de test du jeu pour les corrections
 
-## remarques complémentaires
+# Remarques complémentaires
