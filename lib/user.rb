@@ -18,9 +18,7 @@ class User
   end
 
   def self.all
-    @@all_users.each do | user |
-      puts "#{user.email}"
-    end 
+    @@all_users.map { | user | puts user.email }
   end
 
 end

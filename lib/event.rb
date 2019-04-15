@@ -49,7 +49,8 @@ class Event
         puts ">Date de début : #{@start_date.strftime("%Y-%m-%d %H:%M")}"
         puts ">Durée : #{duration}"
         print ">Invités : "
-        @attendees.each { | attendee | print "-> #{attendee.email} "}
+        @attendees.map { | attendee | print "-> #{attendee} "}
+        puts
     end
 
 end
